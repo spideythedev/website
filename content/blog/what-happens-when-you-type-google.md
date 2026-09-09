@@ -1,8 +1,8 @@
 ---
 title: "What Happens When You Type google.com?"
 description: "You type six characters and hit Enter, and DNS, routing, TLS, and your browser's rendering engine all quietly team up to turn that into a page. This is the real, layer by layer story of what happens in between."
-authors: [SpideY]
-date: September 1, 2026
+authors: [SpideY Dev]
+date: September 9, 2026
 tags: [networking, dns, http, tls, internet]
 ---
 
